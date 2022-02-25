@@ -1,3 +1,4 @@
+使用例
 ```py
 import stringpy
 
