@@ -2,6 +2,5 @@
 ```py
 import stringpy
 
-stringpy.create(5)
-print(stringpy.data)
+print(stringpy.create(5))
 ```
